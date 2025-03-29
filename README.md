@@ -4,8 +4,8 @@ The University Hostel Food Management System is a Java-based desktop application
 
 <h3><u>Technologies Used</u></h3>
 <ul>
-🔹 Java: Application development<br>
-🔹 MySQL: Database management<br>
+🔹 Java<br>
+🔹 MySQL<br>
 </ul>
 
 <h3><u>Features</u></h3>
