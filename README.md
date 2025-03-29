@@ -4,26 +4,26 @@ The University Hostel Food Management System is a Java-based desktop application
 
 Technologies Used
 <ul>
-<li>Java: Application development</li>
-<li>MySQL: Database management</li>
+🔹 Java: Application development<br>
+🔹 MySQL: Database management<br>
 </ul>
 
 <h3>Features</h3>
 
 Student Features:
 <ul>
-<li>Registration and Profile Management: Students can register and edit their details.</li>
-<li>Food Ordering: Students can order breakfast, lunch, and dinner based on their preferences.</li>
-<li>Daily Menu Display: The application shows the daily food menu.</li>
-<li>Flexible Payment: Students can pay more than the actual value.</li>
-<li>Balance Tracking: Students can view their balance.</li>
-<li>Order Collection Update: Students can update their food collection status.</li>
+✅ Registration and Profile Management: Students can register and edit their details.<br>
+✅ Food Ordering: Students can order breakfast, lunch, and dinner based on their preferences.<br>
+✅ Daily Menu Display: The application shows the daily food menu.<br>
+✅ Flexible Payment: Students can pay more than the actual value.<br>
+✅ Balance Tracking: Students can view their balance.<br>
+✅ Order Collection Update: Students can update their food collection status.<br>
 </ul>
 
 Admin Features:
 <ul>
-<li>Food Menu Management: Admins can add, edit, and update food details, including price and size.</li>
-<li>Order Reports: Admins can generate comprehensive reports on student orders.</li>
+✅ Food Menu Management: Admins can add, edit, and update food details, including price and size.<br>
+✅ Order Reports: Admins can generate comprehensive reports on student orders.<br>
 </ul>
 
 
@@ -31,7 +31,7 @@ Admin Features:
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/user-attachments/assets/4d8f0a90-4039-40f8-9af1-542f33aebf84)
+https://github.com/user-attachments/assets/1802b0a9-3f75-4f8f-b5ab-1835ec349210
 
 
 <br><br>
